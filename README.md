@@ -7,5 +7,5 @@ Homework 3:<br>
 Homework 4:<br>
 Homework 5:<br>
 Homework 6:<br>
-Term Project:
+Final Project:
 Spark SQL stream processing for Weather Data (Little data) with webscrapping ingest.
