@@ -1,7 +1,7 @@
 # Distributed-Systems-class
 
 Homework 1:<br>
-Multi client (Readers and Writers) to server programs with Locks and parrallelism over sockets
+Multi client (Readers and Writers) to server programs with Locks and parrallelism over sockets<br>
 Homework 2:<br>
 Homework 3:<br>
 Homework 4:<br>
